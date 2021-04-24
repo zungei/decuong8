@@ -1,0 +1,55 @@
+Đề cương công nghệ
+1. 
+*Cấu tạo
+    - Hai bộ phận chính của động cơ điện là Stato (đứng yên) và Roto (quay).
+a) Stato (đứng yên)
+    Stato gồm lõi thép và dây quấn. Lõi thép làm bằng các lá thép kỹ thuật điện ghép lại với nhau tạo thành hình trụ rỗng bên trong có các cực hoặc rãnh để quấn dây. Dây quấn làm bằng dây điện từ.
+b) Roto (quay)
+    Roto gồm lõi thép và dây quấn, được ghép bằng những lá thép kỹ thuật điện, mặt ngoài có các rãnh của lõi 2. Nguyên lí làm việc:
+*Nguyên lí làm việc của động cơ điện dựa vào tác dụng từ của dòng điện, biến đổi điện năng thành cơ năng.
+    Khi đóng điện sẽ có dòng điện chạy trong dây quấn stato và dòng điện cảm ứng trong dây quấn rôto, tác dụng từ của dòng điện đã được ứng dụng nam châm điện và các động cơ điện ...
+2
+- Khi sử dụng quạt cần chú ý: cánh quạt quay nhẹ nhàng, không bị rung, bị lắc, bị vướng cánh.
+3
+- Đưa điện áp U1 vào dây quấn sơ cấp, trong dây quấn sơ cấp có dòng điện, nhờ cảm ứng điện từ giữa dây quấn sơ cấp và thứ cấp, điện áp lấy ra ở 2 đầu dây thứ cấp là U2
+-Tỉ số điện áp của hai quấn bằng tỉ số vòng dây của chúng theo công thức:
+U1/u2=N1/n2=k
+- Điện áp lấy ra ở thứ cấp U2 theo công thức:
+U2=u1.n2/n1
+- k: Hệ số của MBA
+- U2> U1 biến áp tăng N2 > N1
+-U2< U1 biến áp giảm N2 < N1
+4
+Lợi ích
+-Tiết kiệm những khoản chi cho tiêu thụ điện ở trong gia đình
+- Giảm được chi phí cho xây dựng nguồn điện, giảm bớt điện năng phải nhập khẩu, có nhiều điện phục vụ cho sản xuất đời sống
+- Với môi trường: Giảm bớt khí thải và chất gây ô nhiễm môi trường.Có tác dụng bảo vệ môi trường
+Sử dụng hợp lí và tiết kiệm điện năng:
+1. Giảm bớt tiêu thụ điện năng trong giờ cao điểm
+    Cắt điện những đồ dùng không cần thiết: bình nước nóng, lò sưởi, điều hòa không khí, một số đèn không cần thiết, một số quạt điện không cần thiết, không bơm nước, không là quần áo…
+2. Sử dụng đồ dùng điện hiệu suất cao để tiết kiệm điện năng
+    Sử dụng đồ dùng điện hiệu xuất cao sẽ ít tốn điện năng.
+    Nên dùng đèn huỳnh quang do hiệu năng của đèn huỳnh quang tốt hơn đèn sợi đốt, tiết kiệm điện hơn và bền hơn.
+3. Không sử dụng lãng phí điện năng
+    Không sử dụng đồ dùng điện khi không có nhu cầu.
+5
+1. Đặc điểm của mạng điện trong nhà
+a) Điện áp của mạng điện trong nhà
+    Mạng điện trong nhà là loại mạng điện có điện áp thấp, nhận điện năng từ mạng phân phối để cung cấp điện cho các đồ dùng điện trong gia đình.
+b) Đồ dùng điện của mạng điện trong nhà
+    Đồ dùng điện rất đa dạng: bóng đèn, nồi cơm, bàn là, quạt điện ...
+    Mỗi đồ dùng điện tiêu thụ một lượng điện năng khác nhau hay có một công suất khác nhau.
+c) Sự phù hợp điện áp giữa các thiết bị, đồ dùng điện với điện áp của mạng điện
+    Đồ dùng điện trong nhà phải có điện áp định mức phù hợp với điện áp của mạng điện.
+    Các thiết bị điện (công tắc, cầu dao, ổ cắm điện ...) và các đồ dùng điện (bàn là, nồi cơm, quạt điện...) phải có điện áp định mức phù hợp với điện áp của mạng điện.
+    Riêng các thiết bị đóng-cắt, bảo vệ và điều khiển (cầu dao, aptomat, cầu chì, công tắc, phích cắm....) điện áp định mức có thể lớn hơn điện áp mạng điện.
+2. Yêu cầu mạng điện trong nhà
+    Đảm bảo cung cấp đủ điện cho các đồ dùng điện.
+    Phải đảm bảo an toàn cho người sử dụng và cho ngôi nhà.
+    Dễ kiểm tra và sửa chữa.
+    Sử dụng thuận tiện, chắc, đẹp.
+II. Cấu tạo mạng điện trong nhà
+Cấu tạo một mạng điện trong nhà đơn giản gồm:
+    - Mạch chính (1) từ mạng điện phân phối đi qua công tơ điện vào trong nhà.
+    - Mạch nhánh (2) từ mạch chính rẽ ra các mạch nhánh mắc song song với nhau để có thể điều khiển độc lập, có chức năng cung cấp điện tới các đồ dùng.
+    Còn các thiết bị đóng cắt và bảo vệ, bảng điện, sứ cách điện ...
